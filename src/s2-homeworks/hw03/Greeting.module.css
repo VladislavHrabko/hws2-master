@@ -1,0 +1,40 @@
+.greetingForm {
+    background-color: #0066cc;
+}
+
+.inputAndButtonContainer {
+}
+
+.error {
+}
+
+.input {
+    background-color: #00cc22;
+}
+
+.input:focus {
+    background-color: darkgreen;
+}
+
+.errorInput {
+    background-color: #cc0000;
+}
+
+.button {
+}
+
+.button:focus {
+}
+
+.button:active {
+}
+
+.button:disabled {
+}
+
+.text {
+}
+
+.greeting {
+    background-color: #cc9c00;
+}
